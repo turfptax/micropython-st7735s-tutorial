@@ -18,4 +18,6 @@ run the following to find the SCK and SDA(MISO) pins from default values on ESP3
 import machine
 print(machine.SPI(1))
 ```
+The output should look like this:
 
+>>> 
