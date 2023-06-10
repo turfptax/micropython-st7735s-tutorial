@@ -45,5 +45,5 @@ print(machine.SPI(1))
 The output should look similar to this:
 SPI(id=1, baudrate=500000, polarity=0, phase=0, bits=8, firstbit=0, sck=7, mosi=11, miso=9)
 
-##License
+## License
 This project is licensed under the terms of the MIT license. For more information, refer to the LICENSE file.
